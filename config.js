@@ -63,12 +63,12 @@ module.exports = {
   HANDLERS : process.env.PREFIX || ".",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©tahir²²¹-ᴍᴅ" , // ```『  Tahir²²¹-ᴍᴅ 』```"Tahir"),
  
-  author: process.env.PACK_AUTHER || "Suhail-MD",
+  author: process.env.PACK_AUTHER || "ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄🇹ᗩℍ𝐢Ꭱ 🅑︎ḦḀṮṮI𑁍⃕͜ൣ᭄",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  botname : process.env.BOT_NAME  || "ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄🇹ᗩℍ𝐢Ꭱ 🅑︎ḦḀṮṮI𑁍⃕͜ൣ᭄",
+  ownername:process.env.OWNER_NAME|| "It'x Tahir",
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
   errorChat: process.env.ERROR_CHAT || "",
