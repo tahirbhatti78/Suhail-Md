@@ -1,4 +1,24 @@
 
+  - build
+  - test
+  - deploy
+
+job1:
+  stage: build
+  script:
+    - echo "Building job"
+
+job2:
+  stage: test
+  script:
+    - echo "Testing job"
+
+job3:
+  stage: deploy
+  script:
+    - echo "Deploying job"
+  rules:
+    - if: always()
 
 
 
